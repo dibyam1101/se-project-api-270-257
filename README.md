@@ -1,1 +1,2 @@
-# se-project-api-270-257
+# SE-project-API
+API for the SE project
